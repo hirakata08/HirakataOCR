@@ -1,2 +1,7 @@
-# HirakataOCR
-run ocrdake_final.py 
+# HirakataOCR 枚方 ocr
+
+これは枚方倉庫のラベルマッチング用に設計されたShinwa ActiveのWebアプリです。
+
+連続する 3 つの画像ラベルから必要な番号を読み取り、それらが同じかどうかを比較します。各画像の OCR の詳細、記録された時間、一致確認、ユーザー名は、Google スプレッドシートに保存されます。
+
+FINAL.pyを実行する
